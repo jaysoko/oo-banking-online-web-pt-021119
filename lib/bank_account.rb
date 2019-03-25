@@ -1,6 +1,6 @@
 class BankAccount
 
-class initialize
+def initialize
 
 end
 
