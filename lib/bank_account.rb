@@ -18,7 +18,7 @@ def display_balance
 end
 
 def valid?
-retur false unless self.status == "open" && self.balance > 0
+return false unless self.status == "open" && self.balance > 0
 end
 
 def close_account
