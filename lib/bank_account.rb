@@ -23,9 +23,9 @@ if self.status == "open" && self.balance > 0
 else
 false
 end
+end
 
 def close_account
-end
 end
 end
 
