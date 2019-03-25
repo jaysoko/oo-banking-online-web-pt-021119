@@ -18,6 +18,6 @@ if @status = "pending"
     @receiver.balance += @amount
     @status = "complete"
 end
-
+end
 
 end
