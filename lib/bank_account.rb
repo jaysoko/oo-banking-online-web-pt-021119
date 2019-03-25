@@ -10,6 +10,7 @@ end
 
 def deposit(deposit)
 @deposit = deposit
+@balance += @deposit
 end
 
 
