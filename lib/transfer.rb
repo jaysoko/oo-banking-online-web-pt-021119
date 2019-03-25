@@ -23,6 +23,6 @@ else
 end
 end
 
-def reverse_transaction
+def reverse_transfer
 end
 end
