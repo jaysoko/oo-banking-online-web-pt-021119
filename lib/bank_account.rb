@@ -8,7 +8,8 @@ def initialize(name, balance=1000, status = "open")
 @status = status
 end
 
-def deposit
+def deposit(deposit)
+@deposit = deposit
 end
 
 
