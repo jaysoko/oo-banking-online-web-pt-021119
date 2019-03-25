@@ -1,6 +1,7 @@
 class BankAccount
 
-def initialize
+def initialize(account)
+@account = account
 
 end
 
