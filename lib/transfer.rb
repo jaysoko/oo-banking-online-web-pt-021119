@@ -23,4 +23,6 @@ else
 end
 end
 
+def reverse_transaction
+end
 end
