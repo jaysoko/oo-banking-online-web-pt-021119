@@ -18,7 +18,7 @@ if @status == "pending" && @sender.valid?
     @receiver.balance += @amount
     @status = "complete"
 else
-    "JAYBIRD"
+    "Transaction rejected. Please check your account balance."
 end
 end
 
